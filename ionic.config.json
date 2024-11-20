@@ -1,0 +1,7 @@
+{
+  "name": "app-pedidos-ionic-capacitor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
